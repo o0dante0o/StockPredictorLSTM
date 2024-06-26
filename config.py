@@ -1,6 +1,6 @@
 config = {
     "alpha_vantage": {
-        "key": "OGFCSE2ER7MXR2KY", 
+        "key": , 
         "symbol": "",
         "outputsize": "full",
         "key_adjusted_close": "5. adjusted close",
